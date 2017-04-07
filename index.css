@@ -1,0 +1,105 @@
+body {
+    margin-bottom: 0px;
+    background: url('./dashboard.png');
+    background-size: 1500px;
+    background-repeat: no-repeat;
+    color: black;
+    margin-top: 50px;
+}
+
+.data{
+    background-color: #e22e80;
+    position: absolute;
+    color: white;
+    font-size: 15px;
+}
+
+.data1{
+    left: 608px;
+    top: 480px;
+    width: 45px;
+}
+.data2{
+    left: 653px;
+    top: 480px;
+    width: 45px;
+}
+.data3{
+    left: 723px;
+    top: 540px;
+    padding-left: 27px
+}
+.data4{
+    left: 1040px;
+    top: 390px;
+    padding: 18px;
+}
+.data5{
+    left: 1161px;
+    top: 390px;
+    padding: 18px;
+    width: 67px;
+}
+.data6{
+    left: 1112px;
+    top: 408px;
+    width: 65px;
+}
+.data7{
+    left: 1390px;
+    top: 366px;
+}
+.data8{
+    left: 1450px;
+    top: 367px;
+    width: 42px;
+
+}
+.data9{
+    left: 40px;
+    top: 487px;
+    padding-left: 28px;
+}
+.data10{
+    left: 802px;
+    top: 293px;
+    width: 64px;
+}
+.data11{
+    left: 880px;
+    top: 293px;
+}
+.data12{
+    left: 1383px;
+    top: 506px;
+    padding-left: 33px;
+}
+.data13{
+    left: 1140px;
+    top: 508px;
+    padding-left: 34px;
+}
+.data14{
+    left: 752px;
+    top: 209px;
+    padding-left: 26px;
+}
+.data15{
+    left: 605px;
+    background-color: grey;
+    border-radius: 5px;
+    top: 646px;
+    padding: 20px;
+    width: 167px;
+    text-align: center;
+    border: 2px white solid;
+}
+.greyCover{
+    width: 254px;
+    height: 198px;
+    background-color: #d8d8d8;
+    position: absolute;
+    top: 664px;
+    left: 549px;
+}
+
